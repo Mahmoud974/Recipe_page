@@ -9,7 +9,7 @@ export default function App() {
       <Card className="max-w-lg mx-auto bg-white border-none shadow-none">
         <CardHeader>
           <img
-            src="../src/images/image-omelette.jpeg"
+            src="https://zhqpheunskiuodymniyz.supabase.co/storage/v1/object/public/profiles/admin/image-omelette.jpeg"
             className="rounded-xl mb-3"
           />
           <h1
