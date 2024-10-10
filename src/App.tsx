@@ -9,7 +9,7 @@ export default function App() {
       <Card className="max-w-lg mx-auto bg-white border-none shadow-none">
         <CardHeader>
           <img
-            src="../public/assets/image-omelette.jpeg"
+            src="../src/images/image-omelette.jpeg"
             className="rounded-xl mb-3"
           />
           <h1
