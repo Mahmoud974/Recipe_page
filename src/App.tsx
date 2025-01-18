@@ -11,10 +11,9 @@ export default function App() {
           <img
             src="https://zhqpheunskiuodymniyz.supabase.co/storage/v1/object/public/profiles/admin/image-omelette.jpeg"
             className="rounded-xl mb-3"
+            alt="recipe omelete"
           />
-          <h1
-            className={`font-['Young_Serif'] my-3 text-2xl  text-3xl my-8 text-black`}
-          >
+          <h1 className={`font-['Young_Serif']    text-3xl my-8 text-black`}>
             {recipe.title}
           </h1>
           <p className={fontRecipe}>{recipe.description}</p>
